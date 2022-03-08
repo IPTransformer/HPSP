@@ -65,7 +65,7 @@ pip install -r requirements.txt
 ### Train
 
 ```
-sh train_iptr.sh
+sh train_hpsp.sh
 ```
 
 
