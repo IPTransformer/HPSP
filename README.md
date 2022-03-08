@@ -6,7 +6,7 @@
 In this repository, we release the HPSP code in Pytorch.
 
 - HPSP architecture
-<p><img width="10%" src="data/HPSP.png" /></p>
+<p><img width="10%" src="data/HPSP.jpg" /></p>
 
 
 ### Environments
